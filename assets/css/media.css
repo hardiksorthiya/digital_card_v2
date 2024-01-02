@@ -1,0 +1,30 @@
+/* min-width : 1441 */
+@media (min-width: 992px){
+    img.decorate-one-image2 {
+        position: absolute;
+        right: 9%;
+        top: -15%;
+    }
+    img.decorate-one-image {
+        position: absolute;
+        right: 0%;
+        top: -8%;
+    }
+}
+
+
+
+
+
+/* min-width:992 */
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-collapse {
+        display: flex!important;
+        /* flex-basis: auto; */
+        justify-content: flex-end;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 1.7rem;
+        padding-left: 1.7rem;
+    }
+}
