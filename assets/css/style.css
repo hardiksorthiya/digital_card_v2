@@ -28,7 +28,7 @@ a {
 body {
     background-color: var(--body-color);
 }
-section.top-banner-section, .extra-decoration-image-left-side,.feature-content-home {
+section.top-banner-section, .extra-decoration-image-left-side,.feature-content-home,.feature-section, .social_media_hp, section.footer-area-hp {
     position: relative;
 }
 .margin-bottom-section{
@@ -177,4 +177,97 @@ img.feature-image-three {
     height: 0.1%;
     background: var(--white-color);
     top: 48%;
+}
+.background-feature {
+    width: 80%;
+    height: 120%;
+    position: absolute;
+    top: -18%;
+    left: 10%;
+    z-index: -1;
+    backdrop-filter: blur(10px);
+    border-radius: 50px;
+    background: rgb(255 255 255 / 10%);
+}
+.step-1 {
+    padding: 30px 10px 15px;
+    border-right: 1px solid var(--white-color);
+}
+.step-4 {
+    padding: 30px 10px 15px;
+}
+.step-create-bcard {
+    border-top: 1px solid var(--primary-color);
+}
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px 50px;
+    text-align: center;
+}
+.counter {
+    font-size: 60px;
+    margin-top: 10px;
+}
+span.sub-heading-home {
+    font-size: 24px;
+    margin-left: 20px;
+}
+ul.list-price li {
+    line-height: 40px;
+}
+a.footer-bt {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 60px;
+}
+a.footer-bt button.btn-hp-style.text-white {
+    padding: 15px 40px;
+    font-size: 28px;
+}
+.menu-footer ul.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+a.social_icon_hp i {
+    font-size: 24px;
+    color: white;
+}
+a.social_icon_hp {
+    width: 40px;
+    background: #848484;
+    display: inline-flex;
+    height: 40px;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+}
+.footer-second-section .row.d-flex.align-items-center {
+    margin: 50px 0 20px;
+}
+.menu-footer.credit-fotr ul {
+    display: flex;
+    justify-content: flex-end;
+}
+.menu-footer.credit-fotr li {
+    margin-left: 40px;
+}
+.footer-credit {
+    margin-top: 50px;
+    border-top: 1px solid var(--primary-color);
+    padding-top: 50px;
+}
+.background-footer {
+    width: 80%;
+    height: 120%;
+    position: absolute;
+    top: -18%;
+    left: 10%;
+    z-index: -1;
+    backdrop-filter: blur(10px);
+    border-radius: 50px;
+    background: rgb(255 255 255 / 10%);
 }
