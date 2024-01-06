@@ -17,7 +17,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         session_start();
         $_SESSION['loggedin'] = true;
         $_SESSION['username'] = $username;
-        header("location: index.php");
+        header("location: dashboard.php");
 
     } 
     else{
@@ -42,7 +42,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                     <form action="#" method="post">
                         <h3>SIGN IN</h3>
                         <div class="form-group">
-                            <label for="username">Username</label>
+                            <label for="username">Email</label>
                             <input type="text" class="form-control" id="username" name="username"
                                 aria-describedby="emailHelp">
 
@@ -102,6 +102,3 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
 </script>
-
-
-</html>

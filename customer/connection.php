@@ -15,21 +15,6 @@ if (!$conn){
     die("Error". mysqli_connect_error());
 }
 
-
-// if($_SERVER['HTTP_HOST']=="localhost")
-// {
-//     $conn = mysqli_connect("localhost","root","","digi_card")
-//      or
-//     die ('Database not available...');
-// }else {
-//     $conn = mysqli_connect("localhost","root","","digi_card")
-//      or 
-//     die ('Connection issue');
-// }
-
-// $date=date('Y-m-d H:i:s');
-
-
 ?>
 <head>
     <meta charset="UTF-8">
@@ -41,6 +26,7 @@ if (!$conn){
     </script>
     <link rel="stylesheet" href="/digital_card_v2/assets/css/user.css">
     <link rel="stylesheet" href="/digital_card_v2/assets/css/style.css">
+    <link rel="stylesheet" href="/digital_card_v2/assets/css/index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <script src="/digital_card_v2/assets/jquery/jquery.min.js"></script>
 </head>
