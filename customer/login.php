@@ -42,7 +42,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                     <form action="#" method="post">
                         <h3>SIGN IN</h3>
                         <div class="form-group">
-                            <label for="username">Email</label>
+                            <label for="username">Usename</label>
                             <input type="text" class="form-control" id="username" name="username"
                                 aria-describedby="emailHelp">
 

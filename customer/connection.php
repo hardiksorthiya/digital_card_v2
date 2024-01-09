@@ -27,6 +27,7 @@ if (!$conn){
     <link rel="stylesheet" href="/digital_card_v2/assets/css/user.css">
     <link rel="stylesheet" href="/digital_card_v2/assets/css/style.css">
     <link rel="stylesheet" href="/digital_card_v2/assets/css/index.css">
+    <link rel="stylesheet" href="/digital_card_v2/assets/css/create_card.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <script src="/digital_card_v2/assets/jquery/jquery.min.js"></script>
 </head>
