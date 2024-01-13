@@ -16,7 +16,7 @@
                                     </span>
                                     <span>Edit</span>
                                 </a> -->
-                                <a href="#" class="btn d-inline-flex btn-sm btn-primary mx-1">
+                                <a href="create_card_companyname.php" class="btn d-inline-flex btn-sm btn-primary mx-1">
                                     <span class=" pe-2">
                                         <i class="bi bi-plus"></i>
                                     </span>

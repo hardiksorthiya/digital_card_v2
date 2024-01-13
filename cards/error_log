@@ -1,0 +1,41 @@
+[14-May-2020 17:49:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/connect.php on line 9
+[16-May-2020 15:45:12 Asia/Kolkata] PHP Notice:  Undefined index: card_number in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 11
+[16-May-2020 15:45:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 21
+[16-May-2020 15:45:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 80
+[16-May-2020 15:45:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 146
+[16-May-2020 15:45:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 170
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined index: card_number in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 11
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 21
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 80
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 146
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 170
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined index: card_number in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 11
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 21
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 80
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 146
+[16-May-2020 15:45:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 170
+[16-May-2020 15:45:15 Asia/Kolkata] PHP Notice:  Undefined index: card_number in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 11
+[16-May-2020 15:45:15 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 21
+[16-May-2020 15:45:15 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 80
+[16-May-2020 15:45:15 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 146
+[16-May-2020 15:45:15 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 170
+[16-May-2020 15:45:17 Asia/Kolkata] PHP Notice:  Undefined index: card_number in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 11
+[16-May-2020 15:45:17 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 21
+[16-May-2020 15:45:17 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 80
+[16-May-2020 15:45:17 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 146
+[16-May-2020 15:45:17 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 170
+[16-May-2020 15:45:27 Asia/Kolkata] PHP Notice:  Undefined index: card_number in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 11
+[16-May-2020 15:45:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 21
+[16-May-2020 15:45:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 80
+[16-May-2020 15:45:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 146
+[16-May-2020 15:45:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 170
+[23-May-2020 06:58:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[24-May-2020 00:11:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[24-May-2020 00:35:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[24-May-2020 15:11:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[27-May-2020 19:25:05 Asia/Kolkata] PHP Notice:  Undefined variable: headers in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 235
+[28-May-2020 17:55:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[28-May-2020 17:58:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[31-May-2020 19:34:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[01-Jun-2020 20:21:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
+[02-Jun-2020 15:01:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/cards/preview_page.php on line 172
